@@ -1,0 +1,16 @@
+For RandomClue.java:
+
+How often do you get a solution in fewer than 20 guesses? Does this change depending on the theory you test (1, 2, 3)?
+Answer: almost never unless you get lucky, does not change for all theroies.
+
+What is good or bad about this strategy?
+good: that there is a small change to guess on the first few tries.
+bad: on average it takes hundreds of tries to get the correct answer.
+
+For EfficientClue.java:
+
+How often do you get a solution in fewer than 20 guesses? Does this change depending on the theory you test (1, 2, 3)?
+Answer: For theory 1 it gets it on the first try, for theory 2 it gets it in 20 tries, theory 3 it gets it average like 15 tries
+
+What is good or bad about this strategy?
+good: It guess the answer under 20 tries
