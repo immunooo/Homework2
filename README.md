@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Homework
-=======
 # Data Structure Clue Program
 ## Detective Jill + Assistant Jack, Clue simulation
 
@@ -31,4 +28,4 @@ For example, the provided `RandomClue.java` is a driver that randomly guesses ea
 ## Make sure to commit + push *before* the deadline to have your code be considered for grading.
 
 
->>>>>>> branch 'master' of https://github.com/DrBhriguCollegeCS/DS-Clue
+'master' of https://github.com/DrBhriguCollegeCS/DS-Clue
